@@ -7,3 +7,4 @@ Feature:menu
 	   And i click on ok button
 	   Then i should see user in menu page
 
+zcc
